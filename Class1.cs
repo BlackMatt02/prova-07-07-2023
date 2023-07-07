@@ -1,11 +1,8 @@
 ﻿using System;
 
-namespace Prova 
+public class Class1
 {
-	class Prova()
-
-		static void Main(string[] args)
-	
-	}   
-	
+	public Class1()
+	{
+	}///Ciao a tutti
 }
