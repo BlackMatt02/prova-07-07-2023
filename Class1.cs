@@ -6,3 +6,4 @@ public class Class1
 	{
 	}///ciao
 }
+StreamWriter sw = new StreamWriter(Ciao a tutti)
