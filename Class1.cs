@@ -1,9 +1,11 @@
 ﻿using System;
 
-public class Class1
+namespace Prova 
 {
-	public Class1()
-	{
-	}///ciao
+	class Prova()
+
+		static void Main(string[] args)
+	
+	}   
+	
 }
-StreamWriter sw = new StreamWriter(Ciao a tutti)
